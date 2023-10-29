@@ -1,0 +1,1 @@
+{"name":"5","version":"1.0.0","license":"GNU","scripts":{"start":"node app.js"},"dependencies":{"@cyclic.sh/dynamodb":"^0.0.35","aws":"^0.0.3-2","express":"^4.18.2"}}
